@@ -1,0 +1,7 @@
+package-lock.json
+.git
+node_modules
+dist
+node-kakao
+*.swp
+config.json
